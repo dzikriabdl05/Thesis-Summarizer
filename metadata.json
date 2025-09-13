@@ -1,0 +1,5 @@
+{
+  "name": "AI Thesis Summarizer (Bahasa Indonesia)",
+  "description": "An application to summarize a thesis in Bahasa Indonesia into a 3000-4000 word version, following a specific academic format. The user can paste their thesis content and the AI will generate a structured summary.",
+  "requestFramePermissions": []
+}
